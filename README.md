@@ -3,16 +3,15 @@ Raw scrapings of IVIS Mortalidade https://www.ivis-analise.com/dashboard/monitor
 
 This portal provides the most up-to-date data on daily death count of SIM (Sistema de Informação de Mortalidade)
 
-[Partial 2020](https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade) 
-
-[2019 and before](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10uf.def)
+Comparison of SIM 2020 Partial vs SIM 2020 Ivis
+![Comparison of Partial 2020 vs Ivis](https://i.imgur.com/t6ce3xI.png)
 
 If you feel any data you need is missing, please open an issue here.
 
 **Notice:** 
 This repo is just a copy of the data available at the site and isn't responsible for it, please read their documentation.
 
-Also, the site scrapping is a continuous, incremental and lengthy process, and may introduce additional errors in the data, beware of that when analyzing it.
+Also, the site scrapping is a continuous and incremental process, and may introduce additional errors in the data, beware of that when analyzing it.
 
 ## Tables
 
@@ -36,6 +35,11 @@ Table for all the 27 brazilian states, from 2019-12-29
 
 #### ivis_mortality_cities.csv
 Table for all the brazilian cities over 100,000 population (2019), about 287 (no gender or age group), from 2019-12-29
+
+## Other SIM sources:
+[Partial 2020](https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade) 
+
+[2019 and before](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10uf.def)
 
 ## Changelog
 
