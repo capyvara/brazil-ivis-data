@@ -1,7 +1,11 @@
 # brazil-ivis-data
 Raw scrapings of IVIS Mortalidade https://www.ivis-analise.com/dashboard/monitoramento_de_mortalidade
 
-This portal provides the most up-to-date data on daily death count of SIM (Sistema de Informação de Mortalidade).
+This portal provides the most up-to-date data on daily death count of SIM (Sistema de Informação de Mortalidade)
+
+[Partial 2020](https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade) 
+
+[2019 and before](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10uf.def)
 
 If you feel any data you need is missing, please open an issue here.
 
@@ -46,5 +50,6 @@ Please mention the original source and this repo.
 ## More information, special thanks
 - https://www.vitalstrategies.org/
 - https://www.zenysis.com/ 
+- 
 
 - Scrapping code is currently kept on a private repo to prevent abuse, but if you are a researcher and want access or more information, contact me at https://twitter.com/capyvara
