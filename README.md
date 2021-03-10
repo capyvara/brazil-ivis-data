@@ -50,6 +50,6 @@ Please mention the original source and this repo.
 ## More information, special thanks
 - https://www.vitalstrategies.org/
 - https://www.zenysis.com/ 
-- 
+- https://opendatasus.saude.gov.br/
 
 - Scrapping code is currently kept on a private repo to prevent abuse, but if you are a researcher and want access or more information, contact me at https://twitter.com/capyvara
