@@ -15,6 +15,8 @@ Scrap of SIM deaths from the Excess Mortality Panel (Painel de Monitoramento de 
 
 The portal provides the most up-to-date data on daily death count of SIM (Sistema de Informação de Mortalidade), this repo contain scrapped data from it.
 
+Notice that these are only from natural causes, so to match data on SIM, filter: `CIRCOOBITO not in [1,2,3,4] and TIPOBITO is 2`
+
 #### Comparison of SIM 2020 Partial vs SIM 2020 IVIS
 SIM 2020-02-02 | IVIS 2020-05-03
 ![Comparison of Partial 2020 vs Ivis](https://i.imgur.com/t6ce3xI.png)
