@@ -21,7 +21,7 @@ These are only from natural causes, so to match data on SIM, filter: `CIRCOOBITO
 
 IVIS data is also has right censoring, altought to a less extent as it is more updated.
 
-#### Comparison of SIM 2020 Partial vs SIM 2020 IVIS
+#### Example comparison of SIM 2020 Partial vs SIM 2020 IVIS
 SIM 2020-02-02 | IVIS 2020-03-05
 ![Comparison of Partial 2020 vs Ivis](https://i.imgur.com/RXXdnb7.png)
 
