@@ -46,10 +46,10 @@ Daily entries, there are multiple sub-types, see below.
 | created_at | datetime | yyyy-mm-dd hh:mm<br>approximated time the data was produced according to the server |
 
 #### ivis_mortality_states.csv
-Table for all the 27 brazilian states, from 2019-12-29
+Table for all the 27 brazilian states, since 2019-12-29
 
 #### ivis_mortality_cities.csv
-Table for all the brazilian cities over 100,000 population (2019), about 287 (no gender or age group), from 2019-12-29
+Table for brazilian cities over 100,000 population + capitals (about 324), since 2019-12-29
 
 ## Changelog
 
