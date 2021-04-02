@@ -1,4 +1,4 @@
-# brazil-ivis-data
+# Brazil IVIS Data
 Raw scrapings of IVIS (Plataforma Integrada de Vigilância em Saúde) from Ministry of Health of Brazil (Ministério da Saúde)
 
 If you feel any data you need is missing, please open an issue here.
